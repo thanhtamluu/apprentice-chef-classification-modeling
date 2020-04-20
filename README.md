@@ -1,0 +1,2 @@
+# apprentice-chef-classification-modeling
+Building a classification-based predictive model to predict a cross-sell promotion success and providing insights on what target groups to focus on. The analysis consists of initial exploratory data analysis, feature treatment and engineering, and utilizing appropriate machine learning modeling techniques such as decision trees, random forests, logistic regression, kNN, and K-Means. 
